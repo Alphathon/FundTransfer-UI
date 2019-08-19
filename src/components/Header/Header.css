@@ -1,0 +1,109 @@
+.images{
+    margin-right: 1500px;
+}
+.App {
+    text-align: center;
+  }
+  
+  .main{
+    margin-left:300px;
+    margin-right:300px;
+    margin-top:20px;
+    border-style:solid;
+    border-color:#ff6200;
+  }
+ 
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left:0px;
+    overflow: hidden;
+    border-style:solid;
+    border-color:#ff6200;
+    color:#010154;
+    width:100%;
+    background-color:#ff6200;
+  }
+  
+  li {
+    float: left;
+  }
+  .textcolor{
+    color:#ff6200;
+  }
+  
+  .title{
+    width:100%
+  }
+  .titlespace{
+      padding-top:20px;
+    padding-left:300px;
+    margin-right:200px;
+    color:white
+  }
+  .dropdown{
+      padding-top:40px;
+  }
+  .button1 {
+    background-color: white;
+    color: black;
+  }
+  /*For Homepage*/
+  .home{
+    border-style:solid;
+    border-color:#ff6200;
+    margin-top:40px;
+    margin-left:200px;
+    margin-right:200px;
+    padding-bottom:400px;
+  }
+  
+  .homelist{
+    padding-left:200px;
+    padding-top:30px;
+  }
+  .bodytitle{
+    padding-top:20px;
+    background-color: #ff6200;
+  }
+  
+  /*for account details*/
+  .tablealign{
+    padding-left:200px;
+  }
+  
+  /*in fund transfer page*/
+  .fundtable{
+    padding-left:200px;
+  }
+  
+  /*account details page*/
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .bord{
+    border-style: solid;
+    border-color: #ff6200;
+  }
+
+  .dropdown1{
+      padding-top:30px;
+      margin-right:20px;
+        color:#ff6200;
+  }
