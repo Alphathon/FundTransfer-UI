@@ -20,7 +20,6 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <Header />
         <Switch>
           <Route path="/" component={Register} exact />
           <Route path="/register" component={Register} />
